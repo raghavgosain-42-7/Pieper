@@ -1,4 +1,5 @@
 # Pieper: All-in-One Underwater Acoustic System
+<img width="747" height="551" alt="Screenshot 2026-04-08 224853" src="https://github.com/user-attachments/assets/49509e45-204e-4c5b-9072-ee8a48f8dded" />
 
 ## Overview
 
